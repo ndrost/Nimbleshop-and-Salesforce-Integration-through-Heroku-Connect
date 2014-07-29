@@ -1,0 +1,19 @@
+{
+    "username": "nd@nd.sdo", 
+    "environment": "production", 
+    "project_name": "Heroku Connect", 
+    "workspace": "/mm", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "ZT1029EKRJFKL70X138YQQRYOSW7CKYT", 
+    "metadata_container": "1dcG0000000A7ahIAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
